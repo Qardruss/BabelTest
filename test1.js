@@ -1,1 +1,1 @@
-
+Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=React.createElement("div",null,React.createElement("h1",null,"Yep"),React.createElement("br",null),React.createElement("p",null,"Run ",React.createElement("code",null,"fatarr();")));exports.default=e;
